@@ -1,9 +1,4 @@
-/* -------------------------------------------
-Name: Amy Wong
-Student number: 029755139
-Email: awong138@myseneca.ca
-Section: IPC144 - SLL (1:30pm - 3:15pm)
-Date: July 5, 2018
+
 ----------------------------------------------
 Assignment: 1
 Milestone:  1
