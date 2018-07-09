@@ -1,9 +1,4 @@
-/* -------------------------------------------
-Name: Amy Wong	
-Student number: 029755139
-Email: awong138@myseneca.ca
-Section: IPC144 - SLL (1:30pm - 3:15pm)
-Date: July 5, 2018
+
 ----------------------------------------------
 Assignment: 1
 Milestone:  2
@@ -37,7 +32,8 @@ int main (void)
 	printf("-------------------------");
 
     // Contact Name Input:
-	printf("Do you want to enter a middle intial(s) (y or n):"); //Member middleInitial prompt (member of the Name type):
+	printf("Do you want to enter a middle intial(s) (y or n):"); //Member middleInitial prompt (member of the Name type):
+
     
 	// Contact Address Input:
 	printf("Do you want to enter an apartment number ? (y or n):"); //Member apartmentNumber prompt (member of the Address type):
